@@ -1,9 +1,0 @@
-# Ignore environment files and folders
-.env
-env/
-
-# Ignore whisper.cpp folder
-app/whisper.cpp/
-
-# Ignore coqui_utils folder
-app/coqui_utils/
